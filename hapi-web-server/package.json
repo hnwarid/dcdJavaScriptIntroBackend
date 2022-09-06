@@ -1,0 +1,15 @@
+{
+  "name": "hapi-web-server",
+  "version": "1.0.0",
+  "description": "dicoding hapi web server exercise",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hnwarid",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.2"
+  }
+}
